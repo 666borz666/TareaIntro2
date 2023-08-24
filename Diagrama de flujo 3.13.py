@@ -31,4 +31,4 @@ else:
         print("Mayor: ",may,"Menor: ",men)
     else:
         print("")
-        #evita la creación de un bucle X
+        #evita la creación de un bucle 
